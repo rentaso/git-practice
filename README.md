@@ -1,2 +1,4 @@
 # git-practice
-testこのリポジトリはGit動画講座用です．
+testこのリポジトリはGit動
+画講座用です．
+new-featureブランチで変更
