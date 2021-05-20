@@ -1,5 +1,3 @@
 # git-practice
-testこのリポジトリはGit動
-画講座用です．
-conflict
-git-hubで更新
+testこのリポジトリはGit動画講座用です．
+git-hubで更新2回目
